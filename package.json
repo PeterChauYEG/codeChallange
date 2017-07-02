@@ -1,0 +1,27 @@
+{
+  "name": "codechallenge",
+  "version": "1.0.0",
+  "description": "Web Developer Peter Chau July 2, 2017",
+  "main": "index.js",
+  "dependencies": {
+    "babel-cli": "^6.24.1",
+    "fast-csv": "^2.4.0",
+    "moment": "^2.18.1"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.5.2"
+  },
+  "scripts": {
+    "start": "babel-node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeterChauYEG/codeChallange.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PeterChauYEG/codeChallange/issues"
+  },
+  "homepage": "https://github.com/PeterChauYEG/codeChallange#readme"
+}
