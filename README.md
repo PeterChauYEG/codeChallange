@@ -10,6 +10,7 @@ This take a dataset representing the building code violations. It summerized the
 - the earlist and latest violation date for each category.
 
 ## Setup
+- run `npm install` in a command prompt
 - run `npm start` in a command prompt
 - a readout should be rendered to the command prompt
 
